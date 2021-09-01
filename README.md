@@ -1,0 +1,2 @@
+# millionverse.github.io
+Millionverse is a Pokémon/Axie Infinity-inspired universe where anyone can earn tokens through skilled gameplay, staking, battling and contributions to the ecosystem. Players can battle, collect, breed, and associate with others. It is also inspired by the Million Token (MM) project created by YouTube influencer TechLead. As matter of fact, all Lions in Millionverse is backed and pegged by real Million Tokens. And, these Million Token backings are written in the smart contract.
